@@ -1,0 +1,4 @@
+Kotov 25000
+Semenov 17000
+Kuznetsov 19000
+Tishin 44000
